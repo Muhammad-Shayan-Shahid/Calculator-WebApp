@@ -18,13 +18,6 @@ A modern, stylish, and fully functional calculator web application built with **
 
 ---
 
-## 🖼 Screenshots
-
-![Calculator Screenshot](./screenshot.png)  
-*(Replace with your actual screenshot)*
-
----
-
 ## 💻 Technologies Used
 
 - **HTML5** – Structure of the app 🌐  
@@ -34,6 +27,9 @@ A modern, stylish, and fully functional calculator web application built with **
 
 ---
 
+## 👨‍💻 Web App Developer
+**Muhammad Shayan Shahid**  
+📍 Front-End Developer   
+📧 msshahid23052006@gmail.com  
 
-   ```bash
-   git clone https://github.com/your-username/calculator-app.git
+Feel free to collaborate......🤝
